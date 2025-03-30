@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+google-generativeai
+argparse
+nltk
+scikit-learn
+PyMuPDF
+python-docx 

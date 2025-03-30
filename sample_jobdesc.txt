@@ -1,0 +1,16 @@
+We are looking for a **Python Developer** to join our growing team! The ideal candidate will have experience in backend development, machine learning, and NLP.
+
+**Responsibilities:**  
+- Develop and maintain web applications using Django or Flask.  
+- Work with SQL databases such as PostgreSQL or MySQL.  
+- Implement machine learning models for predictive analytics.  
+- Develop NLP-based features using spaCy or NLTK.  
+- Build and optimize REST APIs for data exchange.  
+- Collaborate with a team using Git and Docker.  
+
+**Requirements:**  
+- 2+ years of Python development experience.  
+- Strong understanding of Django and Flask frameworks.  
+- Hands-on experience with NLP techniques.  
+- Experience working with APIs and database management.  
+- Knowledge of Git, Docker, and cloud services is a plus.  
